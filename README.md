@@ -1,9 +1,9 @@
 
-# <p style="font-family:'FreeMono'">Public Work:</p>
+# <p style="font-family:'FreeMono'">Hi everyone!</p>
 
 
 
-## Hi everyone!
+
 I am Wolfgang Herwald.  I am a data science with a diverse background.  Right now I am involved in neural machine translation research project at Orange Silicon Valley.  Here, I am developing a semi-supervised one shot learning based NMT model for the low-resource Bambara-French Language pair.  Due to it's low resource nature, the development of this model involves alot of additional pre and post processing which has led to some interesting corridors of research which I hope to discuss on my website later at some point.   My interests in machine learning extends beyond NMT however, as I have a strong interest in other NLP and general machine learning application, all of which will be applied in an upcoming app that I am developing alongside a group of classmates.  I have also in my time of the MSDS programs completed a variety of different mini projects which I will list below.  Most of these projects need to remain private on github but some of the more open-ended ones I have shared previews of on my website.
 
 ## I have profficiency with...
