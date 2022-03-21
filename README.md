@@ -15,3 +15,5 @@ Natural Language Processing, currently focussed heavily on pre and post processi
 ## Before becoming a data scientist
 In my undergraduate I was one of the first in the department to conduct computational chemistry research, which at the time meant using a variety of models very specific to the modelling of molecular orbitals.  This led me to a brief presentation on research surrounding computational chemistry to the department which included an application of the genetic algorithm which was likely the start of my interest in machine learning. I thought of becoming a computational chemist out of undergraduate but part of me felt that might be limiting which led me to a personal detour in my life where I went abroad to teach in Vietnam.  My influence as a former teacher abroad has also given me a much more well-rounded perspective on life which has taught me how to communicate and visualize my ideas in a way that allows people to understand my intention but also has an element of aesthetic. 
 
+## My work
+Most of my work on github remains private but is available to be seen on request.  
